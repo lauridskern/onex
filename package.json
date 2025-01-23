@@ -1,0 +1,30 @@
+{
+  "name": "onex",
+  "displayName": "onex",
+  "description": "A merge between IDX Dark and One Dark Vivid",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "idx",
+    "dark",
+    "theme",
+    "google",
+    "vscode",
+    "dark-theme",
+    "idx-dark-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Onex Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/onex-dark.json"
+      }
+    ]
+  }
+}
